@@ -1,4 +1,4 @@
-# OpenAI-Gym-Doom-AI-Reinforcement-Learning
+# OpenAI Gym Doom AI Built with pyTorch
 I implemented the agent which learns to play the classic Doom , using OpenAi Gym's Environment .
 
 
